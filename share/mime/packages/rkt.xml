@@ -4,5 +4,8 @@
     <comment>Racket source code</comment>
     <sub-class-of type="text/plain"/>
     <glob pattern="*.rkt"/>
+    <glob pattern="*.rktd"/>
+    <glob pattern="*.rktl"/>
+    <glob pattern="*.rkts"/>
   </mime-type>
 </mime-info>
